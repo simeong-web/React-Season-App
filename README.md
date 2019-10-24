@@ -1,7 +1,7 @@
 # React-Season-App
 Project:
 ***
-An app that utilises the Geolocation API to determine the users position north or south of the Equator. Depending on the month of the user's viewing of the app, a result is rendered that displays 'winter' or 'summer' theme, thanks to the Geolocation API.
+An app that utilises the Geolocation API to determine the users position north or south of the Equator. Depending on the month in which the user views the app, a result is rendered that displays 'winter' or 'summer' theme, thanks to the Geolocation API.
 ***
 Description:
 ***
